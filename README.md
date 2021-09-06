@@ -1,6 +1,6 @@
 
 
-###                                                                                                        Overall Statistics.
+### Overall Statistics.
 
 <a href="https://github.com/itsland0n">
   <p align="center">
