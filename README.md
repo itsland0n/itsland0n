@@ -3,7 +3,7 @@
 ### Overall Statistics.
 
 <a href="https://github.com/itsland0n">
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=itsland0n&color=ff69b4" alt="Profile Views">
   </p>
 </a>
